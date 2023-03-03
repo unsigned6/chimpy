@@ -8,6 +8,4 @@ ln -sf ../chimpy/bin/chimp.js chimp
 ln -sf ../chimpy/bin/chimpy.js chimpy
 cd -
 
-ls ../node_modules/.bin | grep chimp
-
 echo "Finished linking bin folder for Chimp"
