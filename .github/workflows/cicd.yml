@@ -53,7 +53,7 @@ jobs:
       - name: Publish JS release
         uses: ./actions/js/publish
         with:
-          node-version: 8.11.4
+          node-version: 14.19.3
           verify-tests: false
           npm-token: ${{ secrets.NPM_TOKEN }}
           github-token: ${{ secrets.BOT_GITHUB_TOKEN }}
