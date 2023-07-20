@@ -108,7 +108,7 @@
     "underscore": "~1.8.3",
     "xolvio-ddp": "^0.12.0",
     "xolvio-jasmine-expect": "^1.0.0",
-    "xolvio-sync-webdriverio": "https://github.com/Exabyte-io/sync-webdriverio#5ef7a2bb41463f73cf4dce31f03b53deec46effa"
+    "xolvio-sync-webdriverio": "https://github.com/Exabyte-io/sync-webdriverio#2290bc15092d636cf62b0fe7bfc5f97926df4b7a"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
